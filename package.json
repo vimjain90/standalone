@@ -1,0 +1,26 @@
+{
+  "name": "standalone-app",
+  "version": "1.0.0",
+  "description": "desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimjain90/standalone.git"
+  },
+  "keywords": [
+    "desktop",
+    "app"
+  ],
+  "author": "Vimal Jain (vimjain90@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vimjain90/standalone/issues"
+  },
+  "homepage": "https://github.com/vimjain90/standalone#readme",
+  "devDependencies": {
+    "electron": "^1.3.1"
+  }
+}
